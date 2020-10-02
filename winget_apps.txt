@@ -1,0 +1,9 @@
+7zip.7zip
+git.git
+Microsoft.VisualStudioCode
+Python.Python
+Docker.DockerDesktop
+Microsoft.PowerShell
+Kirsp.Krisp
+Spotify.Spotify
+VMware.HorizonClient
