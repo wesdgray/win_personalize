@@ -4,6 +4,6 @@ Microsoft.VisualStudioCode
 Python.Python
 Docker.DockerDesktop
 Microsoft.PowerShell
-Kirsp.Krisp
+Krisp.Krisp
 Spotify.Spotify
 VMware.HorizonClient
