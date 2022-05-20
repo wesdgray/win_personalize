@@ -12,3 +12,4 @@ Discord.Discord
 JanDeDobbeleer.OhMyPosh
 vim.vim
 Telegram.TelegramDesktop
+EpicGames.EpicGamesLauncher
