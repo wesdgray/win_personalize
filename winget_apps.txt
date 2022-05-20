@@ -1,9 +1,14 @@
 7zip.7zip
 git.git
 Microsoft.VisualStudioCode
-Python.Python
 Docker.DockerDesktop
 Microsoft.PowerShell
-Krisp.Krisp
 Spotify.Spotify
-VMware.HorizonClient
+Valve.Steam
+Microsoft.WindowsTerminal
+AgileBits.1Password
+Nvidia.GeForceExperience
+Discord.Discord
+JanDeDobbeleer.OhMyPosh
+vim.vim
+Telegram.TelegramDesktop
